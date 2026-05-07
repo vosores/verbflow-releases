@@ -1,6 +1,6 @@
 # VerbFlow Pro
 
-Aplicación de escritorio para aprender verbos en inglés — Ubuntu / Debian.
+Aplicación de escritorio para aprender verbos en inglés - Ubuntu / Debian.
 
 Rota verbos automáticamente, muestra conjugaciones, ejemplos de uso y niveles CEFR.
 Al minimizar aparece una mini ventana flotante siempre visible con modo quiz integrado.
